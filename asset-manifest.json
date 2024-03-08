@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AI-Model-Explorer/static/css/main.07251b1b.css",
-    "main.js": "/AI-Model-Explorer/static/js/main.686c4ae4.js",
+    "main.js": "/AI-Model-Explorer/static/js/main.40a2f6ac.js",
     "static/js/453.99dcf01f.chunk.js": "/AI-Model-Explorer/static/js/453.99dcf01f.chunk.js",
     "static/media/fa-solid-900.ttf": "/AI-Model-Explorer/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
     "static/media/fa-brands-400.ttf": "/AI-Model-Explorer/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
@@ -14,11 +14,11 @@
     "static/media/logo.svg": "/AI-Model-Explorer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/AI-Model-Explorer/index.html",
     "main.07251b1b.css.map": "/AI-Model-Explorer/static/css/main.07251b1b.css.map",
-    "main.686c4ae4.js.map": "/AI-Model-Explorer/static/js/main.686c4ae4.js.map",
+    "main.40a2f6ac.js.map": "/AI-Model-Explorer/static/js/main.40a2f6ac.js.map",
     "453.99dcf01f.chunk.js.map": "/AI-Model-Explorer/static/js/453.99dcf01f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.07251b1b.css",
-    "static/js/main.686c4ae4.js"
+    "static/js/main.40a2f6ac.js"
   ]
 }
